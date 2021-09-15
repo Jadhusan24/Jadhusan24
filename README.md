@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Jadhusan-S.visitor-badge)
 
-🔭 I’m currently working on making free videos about technology for the community https://www.youtube.com/UCMxhkfWnqEomYGJFzjmn17A.https://www.youtube.com/channel/UCMxhkfWnqEomYGJFzjmn17A     \
+🔭 I’m currently working on making free videos about technology for the community https://www.youtube.com/channel/UCMxhkfWnqEomYGJFzjmn17A     \
 ⚡ Contributing for the community by writing articles https://jadhusan-s.medium.com/       \
 💬 My Personal Portfolio www.jadhusan.com             \
 📫 How to reach me https://www.linkedin.com/in/jadhusan24/                  \
