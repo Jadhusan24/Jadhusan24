@@ -2,7 +2,7 @@
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Jadhusan-S.visitor-badge)
 
 💬 My Personal Portfolio www.jadhusan.com             \
-🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/UCMxhkfWnqEomYGJFzjmn17A     \
+🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/channel/UCMxhkfWnqEomYGJFzjmn17A     \
 ⚡ Contributing for the tech community by writing articles https://jadhusan-s.medium.com/       \
 📫 How to reach me https://www.linkedin.com/in/jadhusan24/                  \
 
