@@ -1,14 +1,13 @@
 ### Hi there 👋
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Jadhusan-S.visitor-badge)
 
-I am a System Engineer with experience in many hands-on projects with various Technology.
-I love to contribute for Open Source platforms.
+I am a System Engineer with experience in many hands-on projects with various Technology. \
+I love to contribute for Open Source platforms.  \
 I like writing, teaching and sharing my knowledge with other engineers.
-
+  
 💬 My Personal Portfolio www.jadhusan.com             \
 🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/channel/UCcogmZLGgfW1aEuTtjce49Q     \
-⚡ Contributing for the tech community by writing articles https://jadhusan-s.medium.com/       \
-📫 How to reach me https://www.linkedin.com/in/jadhusan24/                  \
+⚡ Contributing for the tech community by writing articles
 
 [![Twitter follow @DarkMoon24V](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DarkMoon24V) &nbsp;
 [![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
