@@ -12,7 +12,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
 
 [![Twitter follow @DarkMoon24V](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDarkMoon24V)](https://twitter.com/DarkMoon24V) &nbsp;
 [![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
-[![Medium follow @jadhusan-s](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDarkMoon24V)](https://jadhusan-s.medium.com/) &nbsp;
+[![Medium follow @jadhusan-s](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jadhusan-s.medium.com/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](www.jadhusan.com) &nbsp;
 
 <!--
