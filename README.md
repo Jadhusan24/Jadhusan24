@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 
 [![Twitter follow @lioncoding](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDarkMoon24V)](https://twitter.com/DarkMoon24V) &nbsp;
-[![Linkedin follow @laurentegbakou](**https://img.shields.io/badge/-laurentegbakou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurentegbakou/**)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
+[![Linkedin follow @laurentegbakou](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjadhusan24%2F)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
 [![Blog](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjadhusan24%2F)](www.jadhusan.com) &nbsp;
 
