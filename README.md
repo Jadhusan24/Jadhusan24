@@ -10,6 +10,11 @@ I like writing, teaching and sharing my knowledge with other engineers.
 ⚡ Contributing for the tech community by writing articles https://jadhusan-s.medium.com/       \
 📫 How to reach me https://www.linkedin.com/in/jadhusan24/                  \
 
+[![Twitter follow @DarkMoon24V](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDarkMoon24V)](https://twitter.com/DarkMoon24V) &nbsp;
+[![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
+[![Medium follow @jadhusan-s](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDarkMoon24V)](https://jadhusan-s.medium.com/) &nbsp;
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](www.jadhusan.com) &nbsp;
+
 <!--
 **Jadhusan-S/Jadhusan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,9 +32,3 @@ Here are some ideas to get you started:
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003669) &nbsp;
 
 -->
-
-
-[![Twitter follow @lioncoding](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDarkMoon24V)](https://twitter.com/DarkMoon24V) &nbsp;
-[![Linkedin follow @laurentegbakou](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjadhusan24%2F)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
-[![Blog](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjadhusan24%2F)](www.jadhusan.com) &nbsp;
-
