@@ -13,6 +13,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
 [![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
 [![Medium follow @jadhusan-s](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jadhusan-s.medium.com/) &nbsp;
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcogmZLGgfW1aEuTtjce49Q) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-jadhusan.com-brightgreen)](www.jadhusan.com) &nbsp;
 [![Youtub Gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/DarkMoonV) &nbsp;
 
 <!--
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com) &nbsp;
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](www.jadhusan.com) &nbsp;
+
 
 
 -->
