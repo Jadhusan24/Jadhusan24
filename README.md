@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Jadhusan-S.visitor-badge)
 
-I am a System Engineer with experience in many hands-on projects with various Technology. \
+I am a Tech Engineer with experience in many hands-on projects with various Technology. \
 I love to contribute for Open Source platforms.  \
 I like writing, teaching and sharing my knowledge with other engineers.
   
