@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com) &nbsp;
-
 -->
