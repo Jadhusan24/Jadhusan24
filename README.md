@@ -9,6 +9,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
 🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/channel/UCcogmZLGgfW1aEuTtjce49Q     \
 ⚡ Contributing for the tech community by writing articles
 
+
 [![Blog](https://img.shields.io/badge/Blog-Jadhusan.com-brightgreen)](https://jadhusan.com) &nbsp;
 [![Twitter follow @DarkMoon24V](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DarkMoon24V) &nbsp;
 [![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
