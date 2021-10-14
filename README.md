@@ -6,6 +6,7 @@ I love to contribute for Open Source platforms.  \
 I like writing, teaching and sharing my knowledge with other engineers.
   
 💬 My Personal Portfolio www.jadhusan.com             \
+🌱 Blog www.blog.jadhusan.com                 \
 🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/channel/UCcogmZLGgfW1aEuTtjce49Q     \
 ⚡ Contributing for the tech community by writing articles
 
