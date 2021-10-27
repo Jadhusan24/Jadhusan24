@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Jadhusan-S.visitor-badge)
 
 I am a Tech Engineer with experience in many hands-on projects with various Technology. \
 I love to contribute for Open Source platforms.  \
