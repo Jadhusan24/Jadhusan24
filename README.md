@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## WhoAmI?
+## Who am I?
 
 I am a Tech Engineer with experience in many hands-on projects with various Technology. \
 I love to contribute for Open Source platforms.  \
 I like writing, teaching and sharing my knowledge with other engineers.
 
-## More About Me
+## More about me
 💬 My Personal Portfolio www.jadhusan.com             \
 🌱 Blog www.blog.jadhusan.com                 \
 🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/channel/UCcogmZLGgfW1aEuTtjce49Q     \
