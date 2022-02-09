@@ -10,7 +10,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
 ## More about me
 💬 My Personal Portfolio www.jadhusan.com             \
 🌱 Blog www.blog.jadhusan.com                 \
-🔭 I’m currently working on making free videos about technology for the tech community https://www.youtube.com/channel/UCcogmZLGgfW1aEuTtjce49Q     \
+🔭 I’m currently working on making free videos about technology for the tech community www.youtube.com/DarkMoon1     \
 ⚡ Contributing for the tech community by writing articles
 
 ## Recent Blog Posts
