@@ -1,7 +1,7 @@
 ### Jadhusan Sadhik 👋
 
-## Who am I?
-I am a Tech Engineer with experience in many hands-on projects with various Technology. | I love to contribute for Open Source platforms. | I like writing, teaching and sharing my knowledge with other engineers.
+Researching, Writing and learning newer technology.
+Freelancing in Fiverr | NFT & Blockchain | Contributing to Open Source Projects in GitHub | Writing Tech Blogs in blog.jadhusan.com and Medium | Projects on VMware vSphere, PowerEdge Server Management, Cisco Network Devices And PF sense Firewall | There are some achievements and certificates as Self-Researcher in my Personal Blog.
 
 ## Connect with me:
 <a href="https://www.youtube.com/DarkMoon1">
@@ -31,7 +31,9 @@ I am a Tech Engineer with experience in many hands-on projects with various Tech
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
-Im a Tech Researcher and Writer
+My Journey:
+* Cisco Certified Network Associate **CISCO**
+* Microsoft Certified Solution Associate **Microsoft**
 * I have had the honor of becoming a **Microsoft Learn Student Ambassador - Beta**
 
 
