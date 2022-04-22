@@ -1,31 +1,48 @@
-### Hi there 👋
+### Jadhusan Sadhik 👋
 
 ## Who am I?
+I am a Tech Engineer with experience in many hands-on projects with various Technology. | I love to contribute for Open Source platforms. | I like writing, teaching and sharing my knowledge with other engineers.
+
+## Connect with me:
+<a href="https://www.youtube.com/DarkMoon1">
+  <img align="left" alt="Jadhusan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://medium.com/@jadhusan-s">
+  <img align="left" alt="Jadhusan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jadhusan24/">
+  <img align="left" alt="Jadhusan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://linktr.ee/DarkMoon_1">
+  <img align="left" alt="Jadhusan's Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/linktree.svg" />
+</a>
+<a href="https://twitter.com/Dark_Moon__1">
+  <img align="left" alt="Bhavesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/Jadhusan-S">
+  <img align="left" alt="Jadhusan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://jadhusan.com">
+  <img align="left" alt="Jadhusan's About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
+</a>
+
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
-I am a Tech Engineer with experience in many hands-on projects with various Technology. \
-I love to contribute for Open Source platforms.  \
-I like writing, teaching and sharing my knowledge with other engineers.
+Im a Tech Researcher and Writer
+* I have had the honor of becoming a **Microsoft Learn Student Ambassador - Beta**
 
-## More about me
-💬 My Personal Portfolio www.jadhusan.com             \
-🌱 Blog www.blog.jadhusan.com                 \
-🔭 I’m currently working on making free videos about technology for the tech community www.youtube.com/DarkMoon1     \
-⚡ Contributing for the tech community by writing articles
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 ## Recent Blog Posts
 
 - [Firewall](https://blog.jadhusan.com/firewall/)
 - [IpSec Tunnel](https://blog.jadhusan.com/ipsec-tunneling/)
 
-
-## Connect with me:
-
-[![Blog](https://img.shields.io/badge/Blog-Jadhusan.com-brightgreen)](https://jadhusan.com) &nbsp;
-[![Twitter follow @DarkMoon24V](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dark_Moon__1) &nbsp;
-[![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
-[![Medium follow @jadhusan-s](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jadhusan-s.medium.com/) &nbsp;
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/DarkMoon1) &nbsp;
 
 ## Languages and Tools:
 
@@ -55,6 +72,15 @@ Here are some ideas to get you started:
 
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com) &nbsp;
 [![Youtube Gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/DarkMoonV) &nbsp;
+
+
+[![Blog](https://img.shields.io/badge/Blog-Jadhusan.com-brightgreen)]() &nbsp;
+[![Twitter follow @DarkMoon24V](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() &nbsp;
+[![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
+[![Medium follow @jadhusan-s](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jadhusan-s.medium.com/) &nbsp;
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/DarkMoon1) &nbsp;
+
+
 
 -->
 
