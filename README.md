@@ -1,7 +1,7 @@
 ### Jadhusan Sadhik 👋
 
 Researching, Writing and learning newer technology.
-Freelancing in Fiverr | NFT & Blockchain | Contributing to Open Source Projects in GitHub | Writing Tech Blogs in blog.jadhusan.com and Medium | Projects on VMware vSphere, PowerEdge Server Management, Cisco Network Devices And PF sense Firewall | There are some achievements and certificates as Self-Researcher in my Personal Blog.
+Freelancing in Fiverr | NFT & Blockchain | Youtuber | MLSA Ambassador | GitHub Pro Contributor to Open Source Projects | Writing Tech Blogs in blog.jadhusan.com and Medium | Projects on VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewall | There are some achievements and certificates as Self-Researcher in my Personal Blog.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
