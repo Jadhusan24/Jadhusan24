@@ -46,9 +46,14 @@ My Journey:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
-## Recent Blog Posts
+## Recent Project Blog
 - [Firewall](https://blog.jadhusan.com/firewall/)
 - [IpSec Tunnel](https://blog.jadhusan.com/ipsec-tunneling/)
+
+
+## Recent Publication 
+- [MLSA](https://jadhusan-s.medium.com/microsoft-learn-student-ambassador-mlsa-1302a869e2ac?source=user_profile---------5----------------------------)
+- [GitHub Pack]((https://jadhusan-s.medium.com/how-to-apply-for-github-student-pack-4a2cdd983b85?source=user_profile---------3----------------------------)
 
 
 ## Languages and Tools:
