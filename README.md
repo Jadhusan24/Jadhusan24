@@ -53,7 +53,7 @@ My Journey:
 
 ## Recent Publication 
 - [MLSA](https://jadhusan-s.medium.com/microsoft-learn-student-ambassador-mlsa-1302a869e2ac?source=user_profile---------5----------------------------)
-- [GitHub Pack]((https://jadhusan-s.medium.com/how-to-apply-for-github-student-pack-4a2cdd983b85?source=user_profile---------3----------------------------)
+- [GitHub Pack](https://jadhusan-s.medium.com/how-to-apply-for-github-student-pack-4a2cdd983b85?source=user_profile---------3----------------------------)
 
 
 ## Languages and Tools:
