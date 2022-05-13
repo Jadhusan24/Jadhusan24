@@ -1,5 +1,8 @@
 ### Jadhusan Sadhik 👋
 
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+
 Researching, Writing and learning newer technology.
 Freelancing in Fiverr | NFT & Blockchain | Youtuber | MLSA Ambassador | GitHub Pro Contributor to Open Source Projects | Writing Tech Blogs in blog.jadhusan.com and Medium | Projects on VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewall | There are some achievements and certificates as Self-Researcher in my Personal Blog.
 
@@ -55,6 +58,9 @@ My Journey:
 - [MLSA](https://jadhusan-s.medium.com/microsoft-learn-student-ambassador-mlsa-1302a869e2ac?source=user_profile---------5----------------------------)
 - [GitHub Pack](https://jadhusan-s.medium.com/how-to-apply-for-github-student-pack-4a2cdd983b85?source=user_profile---------3----------------------------)
 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jadhusan-S&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jadhusan's GitHub Stats" />
+</a>
 
 ## Languages and Tools:
 
