@@ -48,8 +48,8 @@ My Journey:
 
 
 ## Recent Project Blog
-- [Firewall](https://blog.jadhusan.com/firewall/)
-- [IpSec Tunnel](https://blog.jadhusan.com/ipsec-tunneling/)
+- [Implementation of Firewall - Python3](https://blog.jadhusan.com/firewall/)
+- [Implementation of IpSec Tunnel - Python3](https://blog.jadhusan.com/ipsec-tunneling/)
 
 
 ## Recent Publication 
