@@ -1,11 +1,9 @@
 ### Jadhusan Sadhik 👋
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
 
 Researching, Writing and learning newer technology.
 Freelancing in Fiverr | NFT & Blockchain | Youtuber | MLSA Ambassador | GitHub Pro Contributor to Open Source Projects | Writing Tech Blogs in blog.jadhusan.com and Medium | Projects on VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewall | There are some achievements and certificates as Self-Researcher in my Personal Blog.
-
+<img align="right" alt="HTML5" width="80px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 https://jadhusan.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -98,9 +96,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img align="left" alt="Linux" width="26px" src="" />
+
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com) &nbsp;
 [![Youtube Gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/DarkMoonV) &nbsp;
-<img align="left" alt="Linux" width="26px" src="" />
+
 [![Blog](https://img.shields.io/badge/Blog-Jadhusan.com-brightgreen)]() &nbsp;
 [![Twitter follow @DarkMoon24V](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() &nbsp;
 [![Linkedin follow @jadhusan24/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) &nbsp;
