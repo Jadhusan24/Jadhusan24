@@ -56,8 +56,8 @@ My Journey:
 
 
 ## Recent Publication 
+- [10 Cyber Security Projects For Students](https://jadhusan-s.medium.com/10-cyber-security-projects-for-students-daa047ec072f)
 - [What should I study to become Ethical Hacker](https://jadhusan-s.medium.com/what-should-i-study-to-become-ethical-hacker-4e08cd0c2ed0)
-- [Microsoft Certified Trainer Resources & Benefits](https://jadhusan-s.medium.com/microsoft-certified-trainer-resources-benefits-323752b13acb)
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jadhusan-S&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jadhusan's GitHub Stats" />
