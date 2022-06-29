@@ -2,7 +2,7 @@
 
 
 Researching, Writing and learning newer technology.
-Freelancing in Fiverr | NFT & Blockchain | Youtuber | MLSA Ambassador | GitHub Pro Contributor to Open Source Projects | Writing Tech Blogs in blog.jadhusan.com and Medium | Projects on VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewall | There are some achievements and certificates as Self-Researcher in my Personal Blog.
+Microsoft Student Ambassado | Microsoft Certified Professional | Youtuber | Freelancing in Fiverr | NFT & Blockchain | GitHub Dev Program Member & Pro Contributor to Open Source Projects | Writing Tech Blogs in Medium | Achievements in jadhusan.com and Projects with VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewall in blog.jadhusan.com
 
 
 <img align="center" alt="DP"  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
