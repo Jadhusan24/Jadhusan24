@@ -40,11 +40,12 @@ https://jadhusan.com
 
 
 My Journey:
-* Cisco Certified Network Associate **CISCO**
-* Microsoft Certified Solution Associate **Microsoft**
-* Microsoft Azure Administrator **Microsoft**
-* Github Pro and Developer Program Member **Github**
-* I have had the honor of becoming a **Microsoft Learn Student Ambassador - Beta**
+* CompTIA Server+ SK0-005 - **CompTIA**
+* Cisco Certified Network Associate - **CISCO**
+* Microsoft Certified Solution Associate - **Microsoft**
+* Microsoft Azure Administrator - **Microsoft**
+* Github Pro and Developer Program Member - **Github**
+* I have had the honor of becoming a - **Microsoft Learn Student Ambassador - Beta**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
