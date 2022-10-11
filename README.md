@@ -2,11 +2,11 @@
 
 
 Researching, Writing and learning newer technology. </br>
-• Microsoft Student Ambassador | Microsoft Certified Professional
-• Author in Medium (Tech Blogs) | YouTuber & Twitch Streamer
-• GitHub Developer Program Member | Pro Contributor to Open Source Projects | Graduation Member
-• Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls).
-• Freelancer Fiverr Pro (Full-Stack Web Dev, Python Projects, UI/UX Designs, NFT/BlockChain & More)
+• Microsoft Student Ambassador | Microsoft Certified Professional </br>
+• Author in Medium (Tech Blogs) | YouTuber & Twitch Streamer </br>
+• GitHub Developer Program Member | Pro Contributor to Open Source Projects | Graduation Member </br>
+• Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls). </br>
+• Freelancer Fiverr Pro (Full-Stack Web Dev, Python Projects, UI/UX Designs, NFT/BlockChain & More) </br>
 
 
 <img align="center" alt="DP"  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
