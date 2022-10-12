@@ -46,7 +46,7 @@ My Journey:
 * Cisco Certified Network Associate - **CISCO**
 * Microsoft Certified Solution Expert - **Microsoft**
 * Microsoft Certified Solution Associate - **Microsoft**
-<br>
+</br>
 * Github Pro and Developer Program Member - **Github**
 * I have had the honor of becoming a - **Microsoft Learn Student Ambassador**
 
