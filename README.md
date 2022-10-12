@@ -15,28 +15,34 @@ Researching, Writing and learning newer technology. </br>
 <a href="https://jadhusan.com">
   <img align="left" alt="Jadhusan's About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
 </a>
-<a href="https://www.youtube.com/DarkMoon1">
-  <img align="left" alt="Jadhusan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com/@jadhusan-s">
-  <img align="left" alt="Jadhusan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/jadhusan24/">
   <img align="left" alt="Jadhusan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://linktr.ee/DarkMoon_1">
-  <img align="left" alt="Jadhusan's Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/linktree.svg" />
+
+<a href="https://medium.com/@jadhusan-s">
+  <img align="left" alt="Jadhusan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
 </a>
+
 <a href="https://twitter.com/Dark_Moon__1">
   <img align="left" alt="Bhavesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+<a href="https://www.youtube.com/DarkMoon1">
+  <img align="left" alt="Jadhusan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 <a href="https://github.com/Jadhusan-S">
   <img align="left" alt="Jadhusan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<a href="https://linktr.ee/DarkMoon_1">
+  <img align="left" alt="Jadhusan's Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/linktree.svg" />
+</a>
 
 <br/>
 <br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## My Journey
