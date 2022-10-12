@@ -1,4 +1,4 @@
-### Jadhusan Sadhik 👋
+### [Jadhusan Sadhik](https://jadhusan.com) 👋
 
 
 Researching, Writing and learning newer technology. </br>
@@ -8,7 +8,6 @@ Researching, Writing and learning newer technology. </br>
 • Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls). </br>
 • Freelancer Fiverr Pro (Full-Stack Web Dev, Python Projects, UI/UX Designs, NFT/BlockChain & More) </br>
 
-https://jadhusan.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
