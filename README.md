@@ -61,8 +61,8 @@ My Journey:
 
 
 ## Recent Publication 
-- [10 Cyber Security Projects For Students](https://jadhusan-s.medium.com/10-cyber-security-projects-for-students-daa047ec072f)
-- [What should I study to become Ethical Hacker](https://jadhusan-s.medium.com/what-should-i-study-to-become-ethical-hacker-4e08cd0c2ed0)
+- [Azure Cloud Fundamental Crash Course](https://blog.jadhusan.com/azure-cloud-fundamental-crash-course)
+- [Oracle Cloud Foundation Crash Coursel Hacker](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
