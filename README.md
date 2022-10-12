@@ -43,6 +43,7 @@ Researching, Writing and learning newer technology. </br>
 My Journey:
 * CompTIA Server+ SK0-005 - **CompTIA**
 * Cisco Certified Network Associate - **CISCO**
+* Microsoft Certified Solution Expert - **Microsoft**
 * Microsoft Certified Solution Associate - **Microsoft**
 * Microsoft Azure Administrator - **Microsoft**
 * Github Pro and Developer Program Member - **Github**
