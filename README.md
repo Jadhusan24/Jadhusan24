@@ -62,7 +62,7 @@ My Journey:
 
 ## Recent Publication 
 - [Azure Cloud Fundamental Crash Course](https://blog.jadhusan.com/azure-cloud-fundamental-crash-course)
-- [Oracle Cloud Foundation Crash Coursel Hacker](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
+- [Oracle Cloud Foundation Crash Course](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
