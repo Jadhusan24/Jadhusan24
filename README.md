@@ -8,8 +8,6 @@ Researching, Writing and learning newer technology. </br>
 • Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls). </br>
 • Freelancer Fiverr Pro (Full-Stack Web Dev, Python Projects, UI/UX Designs, NFT/BlockChain & More) </br>
 
-
-<img align="center" alt="DP"  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 https://jadhusan.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -69,6 +67,8 @@ My Journey:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jadhusan-S&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jadhusan's GitHub Stats" />
 </a>
 
+<img align="center" alt="DP"  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+
 ## Languages and Tools:
 
 <details>
@@ -81,6 +81,9 @@ My Journey:
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+
 
 
 
