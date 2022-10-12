@@ -41,11 +41,12 @@ Researching, Writing and learning newer technology. </br>
 
 
 My Journey:
+* Microsoft Azure Administrator - **Microsoft**
 * CompTIA Server+ SK0-005 - **CompTIA**
 * Cisco Certified Network Associate - **CISCO**
 * Microsoft Certified Solution Expert - **Microsoft**
 * Microsoft Certified Solution Associate - **Microsoft**
-* Microsoft Azure Administrator - **Microsoft**
+<br>
 * Github Pro and Developer Program Member - **Github**
 * I have had the honor of becoming a - **Microsoft Learn Student Ambassador**
 
