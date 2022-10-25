@@ -5,7 +5,7 @@ Researching, Writing and learning newer technology. </br>
 • Microsoft Student Ambassador | Microsoft Certified Professional </br>
 • Author in Medium (Tech Blogs) | YouTuber & Twitch Streamer </br>
 • GitHub Developer Program Member | Pro Contributor to Open Source Projects | Graduation Member </br>
-• Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls). </br>
+• Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Database Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls). </br>
 • Freelancer Fiverr Pro (Full-Stack Web Dev, Python Projects, UI/UX Designs, NFT/BlockChain & More) </br>
 
 
