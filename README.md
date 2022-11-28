@@ -71,8 +71,8 @@ Honors:
 ## Recent Publication 
 - [Sangfor NGAF Basic Deployment](https://blog.jadhusan.com/sangfor-ngaf/)
 - [SentinelOne RollBack](https://blog.jadhusan.com/sentinelone/)
-- [Azure Cloud](https://blog.jadhusan.com/azure-cloud-fundamental-crash-course)
-- [Oracle Cloud](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
+- [Azure Cloud Overview](https://blog.jadhusan.com/azure-cloud-fundamental-crash-course)
+- [Oracle Cloud Overview](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
