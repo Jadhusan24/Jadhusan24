@@ -69,7 +69,7 @@ Honors:
 
 
 ## Recent Publication 
-- [Sangfor NGAF Deployment](https://blog.jadhusan.com/sangfor-ngaf/)
+- [Sangfor NGAF Configuration](https://blog.jadhusan.com/category/cybersecurity/firewall-administration/sangfor-ngaf/)
 - [SentinelOne RollBack](https://blog.jadhusan.com/sentinelone/)
 - [Azure Cloud Overview](https://blog.jadhusan.com/azure-cloud-fundamental-crash-course)
 - [Oracle Cloud Overview](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
