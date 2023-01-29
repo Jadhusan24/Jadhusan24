@@ -69,10 +69,11 @@ Honors:
 
 
 ## Recent Publication 
+- [Secure SD-WAN Enterprise Solution](https://blog.jadhusan.com/secure-sd-wan-enterprise-solution/)
+- [Cynet XDR Security Overview](https://blog.jadhusan.com/cynet-xdr-security-overview/)
+- [Sangfor: HCI Startup Configuration Guide](https://blog.jadhusan.com/sangfor-hci-startup-configuration-guide/)
 - [Sangfor NGAF Configuration](https://blog.jadhusan.com/sangfor-ngaf-configuration-guide/)
 - [SentinelOne RollBack](https://blog.jadhusan.com/sentinelone/)
-- [Azure Cloud Overview](https://blog.jadhusan.com/azure-cloud-fundamental-crash-course)
-- [Oracle Cloud Overview](https://blog.jadhusan.com/oracle-cloud-foundation-crash-course/)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
