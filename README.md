@@ -3,10 +3,9 @@
 
 Researching, Writing and learning newer technology. </br>
 • Microsoft Student Ambassador | Microsoft Certified Professional </br>
-• Author in Medium (Tech Blogs) | YouTuber & Twitch Streamer </br>
-• GitHub Developer Program Member | Pro Contributor to Open Source Projects | Graduation Member </br>
-• Portfolio https://jadhusan.com and Projects in blog.jadhusan.com (Python, Database Azure Cloud, VMware vSphere, PowerEdge Server Management, Cisco Network Devices and Firewalls). </br>
-• Freelancer Fiverr Pro (Full-Stack Web Dev, Python Projects, UI/UX Designs, NFT/BlockChain & More) </br>
+• Author in Medium | YouTuber & Twitch Streamer </br>
+• GitHub Developer Program Member | GitHub Global Campus Student </br>
+• Portfolio https://jadhusan.com and Techie in blog.jadhusan.com (Cybsecurity and Infrastucture Solutions). </br> </br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -32,10 +31,6 @@ Researching, Writing and learning newer technology. </br>
   <img align="left" alt="Jadhusan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href="https://github.com/Jadhusan-S">
-  <img align="left" alt="Jadhusan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <a href="https://linktr.ee/DarkMoon_1">
   <img align="left" alt="Jadhusan's Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/linktree.svg" />
 </a>
@@ -55,25 +50,15 @@ Certificates:
 </br>
 </br>
 
-Honors:
-* Github Pro and Developer Program Member - **Github**
-* I have had the honor of becoming a - **Microsoft Learn Student Ambassador**
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+## Recent Publication 
+- [Cybersecurity Solution](https://blog.jadhusan.com/category/cybersecurity-solution/)
+- [Infrastructure Solution](https://blog.jadhusan.com/category/infrastructure-solution/)
 
-## Recent Project Blog
+## Recent Projects
 - [Implementation of Firewall - Python3](https://blog.jadhusan.com/firewall/)
 - [Implementation of IpSec Tunnel - Python3](https://blog.jadhusan.com/ipsec-tunneling/)
-
-
-## Recent Publication 
-- [Secure SD-WAN Enterprise Solution](https://blog.jadhusan.com/secure-sd-wan-enterprise-solution/)
-- [Cynet XDR Security Overview](https://blog.jadhusan.com/cynet-xdr-security-overview/)
-- [Sangfor: HCI Startup Configuration Guide](https://blog.jadhusan.com/sangfor-hci-startup-configuration-guide/)
-- [Sangfor NGAF Configuration](https://blog.jadhusan.com/sangfor-ngaf-configuration-guide/)
-- [SentinelOne RollBack](https://blog.jadhusan.com/sentinelone/)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
@@ -93,5 +78,3 @@ Honors:
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<a href="https://www.buymeacoffee.com/jadhusan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
