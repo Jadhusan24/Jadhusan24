@@ -70,7 +70,7 @@ Certificates:
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadhusan-S&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jadhusan-S&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
 </details>
 
 
