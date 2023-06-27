@@ -23,7 +23,7 @@ Researching, Writing and learning newer technology. </br>
   <img align="left" alt="Jadhusan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
 </a>
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/darkmoon___24">
   <img align="left" alt="Bhavesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
