@@ -62,7 +62,7 @@ Certificates:
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jadhusan24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jadhusan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jadhusan24&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default" />
 </a>
 
 
@@ -70,7 +70,7 @@ Certificates:
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jadhusan24&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadhusan24\&layout=compact">
 </details>
 
 
