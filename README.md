@@ -31,10 +31,6 @@ Researching, Writing and learning newer technology. </br>
   <img align="left" alt="Jadhusan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href="https://linktr.ee/DarkMoon_1">
-  <img align="left" alt="Jadhusan's Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/linktree.svg" />
-</a>
-
 <br/>
 <br/>
 
