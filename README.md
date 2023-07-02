@@ -1,11 +1,13 @@
 ### [Jadhusan Sadhik](https://jadhusan.com) 👋
 
 
-Researching, Writing and learning newer technology. </br>
+Researching, Writing, Learning and Contributing to Technology. </br>
+
+• Cybersecurity Engineer with Knack of Cloud Computing. </br>
 • Microsoft Certified Professional | Microsoft Certified Trainer </br>
-• Portfolio https://jadhusan.com and Techie in https://blog.jadhusan.com ( Cloud - Azure, Cybsecurity and Infrastucture Solutions). </br> </br>
+• Portfolio https://jadhusan.com and Contributor in https://blog.jadhusan.com. </br> 
 • Author in Medium | YouTuber & Twitch Streamer </br>
-• GitHub Developer Program Member | GitHub Global Campus Student </br>
+• GitHub Global Campus Student | GitHub Developer Program Member </br> </br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -49,6 +51,7 @@ Certificates:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## Recent Publication 
+- [Microsoft Azure](https://blog.jadhusan.com/category/cloud-computing/microsoft-azure/)
 - [Cybersecurity Solution](https://blog.jadhusan.com/category/cybersecurity-solution/)
 - [Infrastructure Solution](https://blog.jadhusan.com/category/infrastructure-solution/)
 
@@ -56,6 +59,7 @@ Certificates:
 - [Implementation of Firewall - Python3](https://blog.jadhusan.com/firewall/)
 - [Implementation of IpSec Tunnel - Python3](https://blog.jadhusan.com/ipsec-tunneling/)
 
+## GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jadhusan24&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default" />
@@ -64,13 +68,11 @@ Certificates:
 
 ## Languages and Tools:
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadhusan24\&layout=compact">
-</details>
-
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Azure" width="48px" src="./icons/Azure-Light.svg" />
+<img align="left" alt="Python" width="48px" src="./icons/Python-Light.svg" />
+<img align="left" alt="Linux" width="48px" src="./icons/Linux-Light.svg" />
+<img align="left" alt="Docker" width="48px" src="./icons/Docker.svg" />
+<img align="left" alt="NodeJS" width="48px" src="./icons/NodeJS-Light.svg" />
+<img align="left" alt="JS" width="48px" src="./icons/JavaScript.svg" />
+<img align="left" alt="Ansible" width="48px" src="./icons/Ansible.svg" />
+<img align="left" alt="VSCode" width="48px" src="./icons/VSCode-Light.svg" />
