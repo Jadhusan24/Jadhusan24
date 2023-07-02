@@ -2,10 +2,10 @@
 
 
 Researching, Writing and learning newer technology. </br>
-• Microsoft Student Ambassador | Microsoft Certified Professional </br>
+• Microsoft Certified Professional | Microsoft Certified Trainer </br>
+• Portfolio https://jadhusan.com and Techie in https://blog.jadhusan.com ( Cloud - Azure, Cybsecurity and Infrastucture Solutions). </br> </br>
 • Author in Medium | YouTuber & Twitch Streamer </br>
 • GitHub Developer Program Member | GitHub Global Campus Student </br>
-• Portfolio https://jadhusan.com and Techie in https://blog.jadhusan.com (Cybsecurity and Infrastucture Solutions). </br> </br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
