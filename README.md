@@ -52,6 +52,7 @@ Certificates:
 
 ## Recent Publication 
 - [Microsoft Azure](https://blog.jadhusan.com/category/cloud-computing/microsoft-azure/)
+- [Microsoft Windows Server](https://blog.jadhusan.com/category/infrastructure-solution/microsoft-windows-server/)
 - [Cybersecurity Solution](https://blog.jadhusan.com/category/cybersecurity-solution/)
 - [Infrastructure Solution](https://blog.jadhusan.com/category/infrastructure-solution/)
 
