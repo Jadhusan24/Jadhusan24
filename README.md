@@ -1,13 +1,13 @@
 ### [Jadhusan Sadhik](https://jadhusan.com) 👋
 
 
-Researching, Writing, Learning and Contributing to Technology. </br>
+Researching, Writing, Learning and Contributing to Technology.
 
-• Cybersecurity Engineer with Knack of Cloud Computing. </br>
-• Microsoft Certified Professional | Microsoft Certified Trainer </br>
-• Portfolio https://jadhusan.com and Contributor in https://blog.jadhusan.com. </br> 
-• Author in Medium | YouTuber & Twitch Streamer </br>
-• GitHub Global Campus Student | GitHub Developer Program Member </br> </br>
+• Cybersecurity Engineer with Knack of Cloud Computing. \
+• Microsoft Certified Professional | Microsoft Certified Trainer \
+• Portfolio https://jadhusan.com and Contributor in https://blog.jadhusan.com. \
+• Author in Medium | YouTuber & Twitch Streamer \
+• GitHub Global Campus Student | GitHub Developer Program Member
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
